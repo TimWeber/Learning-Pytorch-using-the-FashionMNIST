@@ -1,5 +1,3 @@
-# To better learn the basics of PyTorch, TorchVisioin and deep learning, I wrote a basic deep learning algorithm to try classify items of clothing.
+# To better learn the basics of PyTorch, TorchVisioin and deep learning, I'm working with the FashionMNIST.
 
-While more needs to be done, such as explore other optimisers, such as Adam, and activation functions such as ReLu. I feel that this has been a good introduction to PyTorch, especially having come from MATLAB.
-
-I will be updating this README to better document my learning process shortly.
+Ill be updating this README soon to better document my what I have learnt and how things like Tensorboard can help change the way neural networks are visualised and understood.
